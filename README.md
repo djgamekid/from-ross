@@ -10,3 +10,8 @@ I miss this restaurant honestly. A buffet with the world's best **chicken wings*
 3. Dinner Rolls
 4. Steak
 5. Grilled Shrimp
+
+* Best Buy
+* Target
+* Red Lobster
+* Guitar Center
