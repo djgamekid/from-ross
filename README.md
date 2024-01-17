@@ -15,3 +15,5 @@ I miss this restaurant honestly. A buffet with the world's best **chicken wings*
 * Target
 * Red Lobster
 * Guitar Center
+
+Let's go to MyMedia.md: [MyMedia.md](MyMedia.md)
