@@ -37,3 +37,16 @@ Check out some of my greatest finds in the world of books, songs, and videos. Th
 >"A teacher is never a giver of truth - he is a guide, a pointer to the truth that each student must find for himself."
 
 *~Bruce Lee*
+
+---
+## Javascript Snippet 8
+Gets an array with elements that are included in two other arrays.
+
+```javascript
+const intersection = (a, b) => {
+  const s = new Set(b);
+
+  return a.filter(x => s.has(x));
+};
+```
+<https://code.pieces.app/collections/javascript>
