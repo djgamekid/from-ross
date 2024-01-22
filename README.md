@@ -29,3 +29,11 @@ Check out some of my greatest finds in the world of books, songs, and videos. Th
 | Catch 22 | A great read about the unfortunate reality when it comes to being enlisted in the military. | Joseph Heller |
 | history of the world i guess | A entertaining way to learn about the history of the world (no pun intended). | bill wurtz |
 | Earth Song | A great reminder that this is the our planet and we should take care of it. | Michael Jackson |
+
+---
+## The Great Bruce Lee
+> “Be like water making its way through cracks. Do not be assertive, but adjust to the object, and you shall find a way around or through it. If nothing within you stays rigid, outward things will disclose themselves. Empty your mind, be formless. Shapeless, like water. If you put water into a cup, it becomes the cup. You put water into a bottle and it becomes the bottle. You put it in a teapot, it becomes the teapot. Now, water can flow or it can crash. Be water, my friend.”
+
+>"A teacher is never a giver of truth - he is a guide, a pointer to the truth that each student must find for himself."
+
+*~Bruce Lee*
